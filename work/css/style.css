@@ -72,7 +72,7 @@ img{
   display: flex;
   max-width: 900px;
   margin: 0 auto;
-  min-height: 80vh;
+  min-height: 0vh;
 }
 
 .img{
